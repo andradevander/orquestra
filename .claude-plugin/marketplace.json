@@ -1,0 +1,17 @@
+{
+  "name": "orquestra",
+  "owner": {
+    "name": "Vanderson Andrade",
+    "url": "https://github.com/andradevander"
+  },
+  "description": "Marketplace for the Orquestra plugin for Claude Code.",
+  "plugins": [
+    {
+      "name": "orquestra",
+      "source": "./",
+      "description": "Supervisor + subagents, spec-driven development, clean-context review, project memory, and responsive-ui.",
+      "category": "development",
+      "homepage": "https://github.com/andradevander/orquestra"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "orquestra",
+  "displayName": "Orquestra",
+  "version": "0.1.0",
+  "description": "Spec-driven development with a supervisor (Opus) that plans and validates, Sonnet/Haiku subagents that execute small tasks, clean-context reviewers, versioned project memory, and responsiveness with no desktop regression.",
+  "author": {
+    "name": "Vanderson Andrade",
+    "url": "https://github.com/andradevander"
+  },
+  "homepage": "https://github.com/andradevander/orquestra",
+  "repository": "https://github.com/andradevander/orquestra",
+  "license": "MIT",
+  "keywords": ["spec-driven", "subagents", "orchestration", "code-review", "memory", "responsive", "tailwind"]
+}
